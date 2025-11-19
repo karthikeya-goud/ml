@@ -5,7 +5,7 @@
 ---
 
 ## 0️⃣ General Dataset Overview
-- [ ] Load dataset (`df.head()`, `df.info()`)  
+- [X] Load dataset (`df.head()`, `df.info()`)  
 - [ ] Check dataset shape (rows, columns)  
 - [ ] Identify feature types: numerical, categorical, date/time  
 - [ ] Check target variable type: regression (numeric) / classification (categorical)  
